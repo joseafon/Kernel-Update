@@ -1,3 +1,13 @@
+#########################################################################
+#                                                                       #
+#       Name of Script: Kernel-Update                                   #
+#       Description: no comment                                         #
+#       Author: Jose Manuel Afonso Santana                              #
+#       Alias: joseafon                                                 #
+#       Email: jmasantana@linuxmail.org                                 #
+#                                                                       #
+#########################################################################
+
 #|/bin/sh
 
 clear
